@@ -67,3 +67,6 @@ Image preprocessing, data augmentation, fine-tuning
 Dataset and trained model are not included in the repository due to size constraints
 
 This project was developed and trained using Google Colab
+
+⚠️ Note: If GitHub preview does not render correctly, please open the notebook using the Colab link provided at the top.
+
